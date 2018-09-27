@@ -1,3 +1,12 @@
 你好哇
 我很好
 你真的很好？
+工作区
+	ststus_红色
+缓存区后——绿色
+	add指令
+本地仓库
+	commit指令后进入本地仓库
+	之后通过push上交到github
+	pull从github上更新
+	
